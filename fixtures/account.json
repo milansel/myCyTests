@@ -1,0 +1,35 @@
+[
+  {
+    "accountCode": "1",
+    "accountId": 1,
+    "accountName": "",
+    "defaultCurrency": "SEK",
+    "id": 1,
+    "reference": "1",
+    "subAccountNumber": 1,
+    "tradingGroupId": null,
+    "tradingGroupName": null
+  },
+  {
+    "accountCode": "2",
+    "accountId": 2,
+    "accountName": "",
+    "defaultCurrency": "SEK",
+    "id": 2,
+    "reference": "2",
+    "subAccountNumber": 1,
+    "tradingGroupId": null,
+    "tradingGroupName": null
+  },
+  {
+    "accountCode": "3",
+    "accountId": 3,
+    "accountName": "",
+    "defaultCurrency": "SEK",
+    "id": 3,
+    "reference": "3",
+    "subAccountNumber": 1,
+    "tradingGroupId": null,
+    "tradingGroupName": null
+  }
+]
